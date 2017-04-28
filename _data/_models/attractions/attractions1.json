@@ -1,10 +1,8 @@
 {
-  "name": "Space Needle",
+  "name": "The Space Needle",
   "description": "Seattle Landmark and Tourist Attraction",
   "category": "Seattle Landmark and Tourist Attraction",
-  "photos": [
-
-  ],
+  "photos": null,
   "city": "Seattle",
   "address": " 400 Broad St, Seattle, WA 98109",
   "latitude": "47.6204° N",
