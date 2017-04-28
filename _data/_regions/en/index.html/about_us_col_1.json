@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p>Seattle's newest Hotel is one block west of The Key Arena and The Space Needle, located in the Vibrant Queen Anne Neighborhood. Mediterranean Inn has the Location, Price</p>"
+  }
+]
