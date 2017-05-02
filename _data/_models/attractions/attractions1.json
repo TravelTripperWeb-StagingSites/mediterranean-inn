@@ -1,11 +1,15 @@
 {
-    "name": "Monument",
-    "description": "This great sculpture was built in 1224 to dedicate the great event.",
-    "category": "",
-    "address1": "123 Main St",
-    "city": "Boston",
-    "state": "MA",
-    "country": "US",
-    "zip": "021120",
-    "order": 1
+  "name": "The Space Needle",
+  "description": "Seattle Landmark and Tourist Attraction",
+  "category": "Seattle Landmark and Tourist Attraction",
+  "photos": null,
+  "city": "Seattle",
+  "address": " 400 Broad St, Seattle, WA 98109",
+  "latitude": "47.6204° N",
+  "longitude": "122.3491° W",
+  "lead_photo": {
+  },
+  "zip_code": "98109",
+  "address1": null,
+  "order": 1
 }

@@ -1,8 +1,10 @@
 {
-    "name": "Image 1",
-    "image": { "url": "/assets/images/gallery1.jpg" },
-    "description": "Gallery Image 1",
-    "order": 1
+  "name": "Mediterranean Inn ",
+  "image": {
+    "url": "https://d31f902anbz5po.cloudfront.net/545/23313_1_master.jpg",
+    "description": "Exterior Picture",
+    "caption": "Mediterranean Inn ",
+    "alt": ""
+  },
+  "order": 1
 }
-
-

@@ -1,7 +1,7 @@
 {
-  "name": "2nd Image",
-  "image": { 
-    "url": "/assets/images/facility.jpg"
+  "name": "Lead Photo",
+  "image": {
+    "url": "https://d31f902anbz5po.cloudfront.net/545/23313_1_master.jpg"
   },
   "order": 1,
   "hidden": false
